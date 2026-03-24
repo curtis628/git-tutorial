@@ -13,7 +13,7 @@ public class App {
   }
 
   public static void main(String[] args) {
-    App app = new App("Welcome to git-tutorial v1.0!");
+    App app = new App("Interactive Git Tutorial!");
     app.display();
   }
 }
